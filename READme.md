@@ -62,3 +62,15 @@ https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(50024).yml
 https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(45948).yml
 
 https://raw.githubusercontent.com/clashconfig/online/main/SurfShark(50695).yml
+
+لینک سرورها یه مزینی دارن که دیگه هر دفعه نمیخاد اضافه کنی میتونید رو اپدیت بزنید تا سرورها بروز بشوند
+
+✅لینک url کلش
+
+https://gitea.com/proxypools/sub/raw/branch/main/clash/clash.yaml
+
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yml
+
+https://raw.githubusercontent.com/AzadNetCH/Clash/main/AzadNet.yml
+
+❌در صورت اد نشدن از یک فیلترشکن دیگه استفاده کنید
